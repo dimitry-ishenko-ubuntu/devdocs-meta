@@ -1,5 +1,6 @@
-devdocs-meta (1.0) UNRELEASED; urgency=medium
+devdocs-meta (1.0) unstable; urgency=medium
 
-  * Initial release.
+  * Initial import
+  * Initial commit
 
- -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Mon, 29 Sep 2025 12:04:19 -0400
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Mon, 29 Sep 2025 12:39:31 -0400
